@@ -4,7 +4,7 @@
 ![Logo](https://github.com/Tohidkhan6332/TOHID_TG-BOT/raw/main/components/image/thumbnail.jpg)
 
 
-**Izumii Bot** is a versatile Telegram bot built with the **Telegraf** framework for Telegram integration. This bot offers a wide range of features including AI, multimedia support, and custom plugin handling. Created by **Mr Tohid**, it is designed to be a powerful tool for automation and interactive.
+**Tohid khan Bot** is a versatile Telegram bot built with the **Telegraf** framework for Telegram integration. This bot offers a wide range of features including AI, multimedia support, and custom plugin handling. Created by **Mr Tohid**, it is designed to be a powerful tool for automation and interactive.
 
 ## Features
 - **AI Chat**: The bot supports intelligent conversations with the help of AI.
@@ -36,7 +36,7 @@ export default helper;
 Install my-project with npm
 
 ```bash
-git clone https://github.com/rlzyy/Tohidkhan6332/TOHID_TG-BOT.git
+git clone https://github.com/Tohidkhan6332/TOHID_TG-BOT.git
 cd TOHID_TG-BOT
 npm install
 
