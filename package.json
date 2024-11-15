@@ -1,0 +1,36 @@
+{
+  "name": "tohidv2",
+  "version": "1.0.0",
+  "description": "simple telegram bot using system plugins",
+  "main": "system/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node system/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "telegram-bot",
+    "telebot",
+    "tohid"
+  ],
+  "author": "rlzyy",
+  "homepage": "https://github.com/Tohidkhan6332",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Tohidkhan6332/TOHID_TG-BOT.git"
+  },
+  "bugs": {
+      "url": "https://github.com/Tohidkhan6332/TOHID_TG-BOT/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "form-data": "^4.0.1",
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.16.3"
+  }
+}
